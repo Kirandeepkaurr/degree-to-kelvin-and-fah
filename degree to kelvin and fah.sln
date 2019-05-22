@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "degree to kelvin and fah", "degree to kelvin and fah.csproj", "{78764D9D-A8DF-4C9E-9942-515E26B1F20C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78764D9D-A8DF-4C9E-9942-515E26B1F20C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78764D9D-A8DF-4C9E-9942-515E26B1F20C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78764D9D-A8DF-4C9E-9942-515E26B1F20C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78764D9D-A8DF-4C9E-9942-515E26B1F20C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0146267-C9D8-4A48-85BE-2ACA07BE5F86}
+	EndGlobalSection
+EndGlobal
